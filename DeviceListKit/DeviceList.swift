@@ -11,6 +11,7 @@ import UIKit
 
 // Link Helper
 // https://stackoverflow.com/questions/26028918/how-to-determine-the-current-iphone-device-model
+// https://www.theiphonewiki.com/wiki/Models#iPhone
 
 public enum DeviceType: String, CaseIterable {
   case iPhone2G
